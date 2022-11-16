@@ -1,1 +1,3 @@
-// Linha 1
+import { nome } from '.teste/'
+
+console.log(nome)
